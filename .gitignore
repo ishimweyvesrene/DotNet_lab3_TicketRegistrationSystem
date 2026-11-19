@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+# real database password lives here - never commit it
+appsettings.json
